@@ -1,24 +1,22 @@
 <!--
   Emre Akbaş · GitHub Profile README
   Repo: github.com/emreakbs/emreakbs → README.md
-  Dinamik widget'lar her ziyarette kendini günceller.
+  ⚠ Dinamik istatistik / streak / trophy kartları, "emreakbs" kullanıcı adı
+    GitHub'da herkese açık olarak var olduğunda otomatik dolar.
+    Kullanıcı adını değiştirmek için: bu dosyada emreakbs → yeni_ad (tümünü değiştir).
 -->
 
-<h1 align="center">Emre&nbsp;Akbaş</h1>
-
-<p align="center">
-  <a href="https://github.com/emreakbs">
-    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=560&lines=Senior+Full-Stack+Software+Developer;.NET+%C2%B7+ABP+%C2%B7+Clean+Architecture+%C2%B7+DDD;Vue+%C2%B7+React+%C2%B7+TypeScript" alt="typing"/>
-  </a>
-</p>
+<!-- ── HEADER ─────────────────────────────────────────── -->
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=170&section=header&text=Emre%20Akba%C5%9F&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Software%20Developer&descAlignY=58&descSize=18" alt="header"/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emre-akbas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
   <a href="mailto:emre.akbs@outlook.com"><img src="https://img.shields.io/badge/Outlook-0078D4?style=flat-square&logo=microsoftoutlook&logoColor=white" alt="Email"/></a>
   <a href="https://github.com/emreakbs"><img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub"/></a>
-  <img src="https://komarev.com/ghpvc/?username=emreakbs&style=flat-square&color=7AA2F7&label=views" alt="views"/>
+  <img src="https://komarev.com/ghpvc/?username=emreakbs&style=flat-square&color=26D0CE&label=views" alt="views"/>
 </p>
 
+<!-- ── ABOUT ──────────────────────────────────────────── -->
 <br/>
 
 🇹🇷&nbsp; Ölçeklenebilir kurumsal sistemler geliştiren bir **full-stack yazılım geliştiricisiyim**. Backend'de **.NET / ABP** ile temiz mimari, Domain-Driven Design ve mikroservis yaklaşımları; frontend'de **Vue** ve **React** ile sade ve hızlı arayüzler kurarım. Kod kalitesini, performansı ve sürdürülebilirliği önemserim.
@@ -27,34 +25,27 @@
 
 <br/>
 
+<!-- ── TECH (graphical icon grid) ─────────────────────── -->
 ### 🧩 Tech Stack
 
-**Backend**
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,vue,react,ts,js,tailwind,bootstrap,html,css&theme=dark&perline=10" alt="languages & frameworks"/>
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=postgres,mysql,redis,mongodb,docker,git,azure,rabbitmq,nginx,linux&theme=dark&perline=10" alt="data & infra"/>
+</p>
 
-![C#](https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![ABP](https://img.shields.io/badge/ABP%20Framework-3EA1DB?style=flat-square&logo=abstract&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF%20Core-512BD4?style=flat-square&logo=nuget&logoColor=white)
-
-**Frontend**
-
-![Vue](https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=42B883)
-![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
-![Tailwind](https://img.shields.io/badge/Tailwind-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
-
-**Data & Infra**
-
-![SQL Server](https://img.shields.io/badge/SQL%20Server-CC2927?style=flat-square&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat-square&logo=postgresql&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+<p align="center">
+  <img src="https://img.shields.io/badge/Clean%20Architecture-1A2980?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/DDD-1A2980?style=flat-square" alt="DDD"/>
+  <img src="https://img.shields.io/badge/Microservices-1A2980?style=flat-square" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/SOLID-1A2980?style=flat-square" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/REST%20API-1A2980?style=flat-square" alt="REST API"/>
+</p>
 
 <br/>
 
-### 📊 GitHub
+<!-- ── GITHUB ANALYTICS ───────────────────────────────── -->
+### 📊 GitHub Analytics
 
 <p align="center">
   <img height="165" src="https://github-readme-stats.vercel.app/api?username=emreakbs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats"/>
@@ -67,6 +58,7 @@
 
 <br/>
 
+<!-- ── TROPHIES ───────────────────────────────────────── -->
 ### 🏆 Trophies
 
 <p align="center">
@@ -75,6 +67,17 @@
 
 <br/>
 
+<!-- ── ACTIVITY GRAPH ─────────────────────────────────── -->
+### 📈 Contribution Graph
+
+<p align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=emreakbs&bg_color=1a1b27&color=26D0CE&line=26D0CE&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+</p>
+
+<br/>
+
 <p align="center">
   <sub>“Simplicity is the ultimate sophistication.”</sub>
 </p>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=110&section=footer" alt="footer"/>
