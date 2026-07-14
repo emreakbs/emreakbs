@@ -1,0 +1,57 @@
+# .github/workflows/metrics.yml
+# Bu workflow, GitHub istatistiklerini SVG olarak DOĞRUDAN senin deponda üretir.
+# Hiçbir dış servise (vercel/heroku) bağlı değildir → asla kırılmaz.
+#
+# KURULUM (tek seferlik):
+#   1) Bu dosyayı emreakbs/emreakbs deposunda şu yola koy: .github/workflows/metrics.yml
+#   2) Bir Personal Access Token oluştur:
+#        GitHub → Settings → Developer settings → Personal access tokens →
+#        Tokens (classic) → Generate new token (classic)
+#        Kapsam (scope): "repo" ve "read:user" işaretle. Süre: dilediğin gibi.
+#   3) Token'ı depoya secret olarak ekle:
+#        emreakbs/emreakbs → Settings → Secrets and variables → Actions →
+#        New repository secret → Name: METRICS_TOKEN → Value: <token>
+#   4) Actions sekmesinden "Metrics" workflow'unu "Run workflow" ile bir kez elle çalıştır.
+#      Birkaç dakika içinde github-metrics.svg ve github-metrics-isocalendar.svg
+#      dosyaları depona commit'lenir; README bunları otomatik gösterir.
+
+name: Metrics
+
+on:
+  schedule:
+    - cron: "0 */12 * * *"   # günde 2 kez otomatik güncelle
+  workflow_dispatch:          # elle tetikleme
+
+permissions:
+  contents: write
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    steps:
+      # 1) Genel bakış + diller + aktivite (ana kart)
+      - name: Overview & Languages
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: emreakbs
+          filename: github-metrics.svg
+          template: classic
+          base: header, activity, community, repositories, metadata
+          config_timezone: Europe/Istanbul
+          plugin_languages: yes
+          plugin_languages_details: bytes-size, percentage
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+
+      # 2) 3B izometrik katkı takvimi (grafiksel yıldız öğe)
+      - name: Isometric contribution calendar
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.METRICS_TOKEN }}
+          user: emreakbs
+          filename: github-metrics-isocalendar.svg
+          base: ""
+          config_timezone: Europe/Istanbul
+          plugin_isocalendar: yes
+          plugin_isocalendar_duration: full-year
