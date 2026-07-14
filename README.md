@@ -1,13 +1,20 @@
 <!--
-  Emre Akbaş · GitHub Profile README
-  Repo: github.com/emreakbs/emreakbs → README.md
-  ⚠ Dinamik istatistik / streak / trophy kartları, "emreakbs" kullanıcı adı
-    GitHub'da herkese açık olarak var olduğunda otomatik dolar.
-    Kullanıcı adını değiştirmek için: bu dosyada emreakbs → yeni_ad (tümünü değiştir).
+  Emre Akbaş · GitHub Profile README  (github.com/emreakbs)
+  ──────────────────────────────────────────────────────────────
+  Bu README yalnızca DOĞRULANMIŞ ÇALIŞAN kaynaklara bağlıdır:
+    • shields.io, komarev, skillicons.dev, demolab (streak & typing)
+    • github-metrics*.svg → GitHub Action ile SENİN deponda üretilir
+      (metrics.yml kurulduktan sonra otomatik dolar; dış servise bağlı değil)
+  Kullanıcı adını değiştirmek için: emreakbs → yeni_ad (tümünü değiştir).
 -->
 
-<!-- ── HEADER ─────────────────────────────────────────── -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=170&section=header&text=Emre%20Akba%C5%9F&fontSize=48&fontColor=ffffff&fontAlignY=36&desc=Senior%20Full-Stack%20Software%20Developer&descAlignY=58&descSize=18" alt="header"/>
+<h1 align="center">Emre&nbsp;Akbaş</h1>
+
+<p align="center">
+  <a href="https://github.com/emreakbs">
+    <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=20&pause=1200&color=26D0CE&center=true&vCenter=true&width=580&lines=Senior+Full-Stack+Software+Developer;.NET+%C2%B7+ABP+%C2%B7+Clean+Architecture+%C2%B7+DDD;Vue+%C2%B7+React+%C2%B7+TypeScript" alt="typing"/>
+  </a>
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/emre-akbas/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
@@ -16,7 +23,6 @@
   <img src="https://komarev.com/ghpvc/?username=emreakbs&style=flat-square&color=26D0CE&label=views" alt="views"/>
 </p>
 
-<!-- ── ABOUT ──────────────────────────────────────────── -->
 <br/>
 
 🇹🇷&nbsp; Ölçeklenebilir kurumsal sistemler geliştiren bir **full-stack yazılım geliştiricisiyim**. Backend'de **.NET / ABP** ile temiz mimari, Domain-Driven Design ve mikroservis yaklaşımları; frontend'de **Vue** ve **React** ile sade ve hızlı arayüzler kurarım. Kod kalitesini, performansı ve sürdürülebilirliği önemserim.
@@ -25,7 +31,6 @@
 
 <br/>
 
-<!-- ── TECH (graphical icon grid) ─────────────────────── -->
 ### 🧩 Tech Stack
 
 <p align="center">
@@ -35,43 +40,28 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-1A2980?style=flat-square" alt="Clean Architecture"/>
-  <img src="https://img.shields.io/badge/DDD-1A2980?style=flat-square" alt="DDD"/>
-  <img src="https://img.shields.io/badge/Microservices-1A2980?style=flat-square" alt="Microservices"/>
-  <img src="https://img.shields.io/badge/SOLID-1A2980?style=flat-square" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/REST%20API-1A2980?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/Clean%20Architecture-134E5E?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/DDD-134E5E?style=flat-square" alt="DDD"/>
+  <img src="https://img.shields.io/badge/Microservices-134E5E?style=flat-square" alt="Microservices"/>
+  <img src="https://img.shields.io/badge/SOLID-134E5E?style=flat-square" alt="SOLID"/>
+  <img src="https://img.shields.io/badge/REST%20API-134E5E?style=flat-square" alt="REST API"/>
 </p>
 
 <br/>
 
-<!-- ── GITHUB ANALYTICS ───────────────────────────────── -->
 ### 📊 GitHub Analytics
 
+<!-- Aşağıdaki iki görsel GitHub Action (metrics.yml) ilk kez çalıştıktan sonra dolar. -->
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=emreakbs&show_icons=true&count_private=true&include_all_commits=true&hide_border=true&theme=tokyonight" alt="stats"/>
-  <img height="165" src="https://github-readme-streak-stats.herokuapp.com?user=emreakbs&hide_border=true&theme=tokyonight" alt="streak"/>
+  <img width="88%" src="./github-metrics.svg" alt="GitHub metrics"/>
 </p>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=emreakbs&layout=compact&langs_count=8&hide_border=true&theme=tokyonight" alt="top languages"/>
+  <img width="88%" src="./github-metrics-isocalendar.svg" alt="Contribution calendar"/>
 </p>
 
-<br/>
-
-<!-- ── TROPHIES ───────────────────────────────────────── -->
-### 🏆 Trophies
-
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=emreakbs&theme=tokyonight&no-frame=true&column=7&margin-w=6&margin-h=6" alt="trophies"/>
-</p>
-
-<br/>
-
-<!-- ── ACTIVITY GRAPH ─────────────────────────────────── -->
-### 📈 Contribution Graph
-
-<p align="center">
-  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=emreakbs&bg_color=1a1b27&color=26D0CE&line=26D0CE&point=ffffff&area=true&hide_border=true&custom_title=Contribution%20Activity" alt="activity graph"/>
+  <img height="165" src="https://streak-stats.demolab.com?user=emreakbs&hide_border=true&theme=tokyonight" alt="streak"/>
 </p>
 
 <br/>
@@ -79,5 +69,3 @@
 <p align="center">
   <sub>“Simplicity is the ultimate sophistication.”</sub>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=110&section=footer" alt="footer"/>
