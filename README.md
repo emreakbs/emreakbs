@@ -51,17 +51,24 @@
 
 ### 📊 GitHub Analytics
 
-<!-- Aşağıdaki iki görsel GitHub Action (metrics.yml) ilk kez çalıştıktan sonra dolar. -->
 <p align="center">
-  <img width="88%" src="./github-metrics.svg" alt="GitHub metrics"/>
+  <img src="https://streak-stats.demolab.com?user=emreakbs&hide_border=true&theme=tokyonight&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE" alt="streak stats"/>
 </p>
 
-<p align="center">
-  <img width="88%" src="./github-metrics-isocalendar.svg" alt="Contribution calendar"/>
-</p>
+<!--
+  NOT: İstatistik + diller + 3B katkı takvimi kartları, hesaptaki flag
+  kalkıp GitHub Actions tekrar çalışabilir hale gelince buraya eklenir.
+  metrics.yml deponda hazır bekliyor; flag kalkınca Actions'tan "Metrics"i
+  bir kez çalıştırman yeterli. Sonra aşağıdaki iki satırı bu bloktan çıkar:
+
+  <p align="center"><img width="88%" src="./github-metrics.svg" alt="GitHub metrics"/></p>
+  <p align="center"><img width="88%" src="./github-metrics-isocalendar.svg" alt="Contribution calendar"/></p>
+-->
 
 <p align="center">
-  <img height="165" src="https://streak-stats.demolab.com?user=emreakbs&hide_border=true&theme=tokyonight" alt="streak"/>
+  <img src="https://img.shields.io/github/followers/emreakbs?style=flat-square&logo=github&label=followers&color=134E5E" alt="followers"/>
+  <img src="https://img.shields.io/badge/Contributions-3.8k%2B-134E5E?style=flat-square&logo=git&logoColor=white" alt="contributions"/>
+  <img src="https://img.shields.io/badge/Since-2019-134E5E?style=flat-square" alt="since"/>
 </p>
 
 <br/>
