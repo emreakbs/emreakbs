@@ -25,9 +25,9 @@
 <br/>
 
 <!-- ════════════════ ABOUT ════════════════ -->
-🇹🇷&nbsp; Ölçeklenebilir kurumsal sistemler geliştiren bir **full-stack yazılım geliştiricisiyim**. Backend'de **.NET / ABP Framework** ile temiz mimari (Clean Architecture), Domain-Driven Design ve mikroservis yaklaşımları benimserim; frontend'de **Vue** ve **React** ile sade, hızlı ve bakımı kolay arayüzler kurarım. Şu an ağırlıklı olarak kapsamlı bir **İK yönetim platformu (iq-hr)** üzerinde çalışıyorum. Kod kalitesini, performansı ve sürdürülebilirliği her şeyin önünde tutarım.
+🇹🇷&nbsp; Ölçeklenebilir kurumsal sistemler geliştiren bir **full-stack yazılım geliştiricisiyim**. Kapsamlı, çok kiracılı (multi-tenant) kurumsal SaaS ürünlerini alan modellemesinden dağıtıma kadar uçtan uca hayata geçiriyorum. Backend'de **.NET / ABP Framework** ile temiz mimari (Clean Architecture), Domain-Driven Design ve mikroservis yaklaşımları benimserim; frontend'de **Vue** ve **React** ile sade, hızlı ve bakımı kolay arayüzler kurarım. Kod kalitesini, performansı ve sürdürülebilirliği her şeyin önünde tutarım.
 
-🇬🇧&nbsp; A **full-stack software developer** building scalable enterprise systems. On the backend I apply Clean Architecture, Domain-Driven Design and microservices with **.NET / ABP Framework**; on the frontend I build clean, fast and maintainable interfaces with **Vue** and **React**. Currently focused on a comprehensive **HR management platform (iq-hr)**. I put code quality, performance and maintainability above everything else.
+🇬🇧&nbsp; A **full-stack software developer** building scalable enterprise systems. I deliver comprehensive, multi-tenant enterprise SaaS products end-to-end — from domain modeling to deployment. On the backend I apply Clean Architecture, Domain-Driven Design and microservices with **.NET / ABP Framework**; on the frontend I build clean, fast and maintainable interfaces with **Vue** and **React**. I put code quality, performance and maintainability above everything else.
 
 <br/>
 <br/>
