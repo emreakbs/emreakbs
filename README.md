@@ -1,14 +1,12 @@
 <!--
   Emre Akbaş · GitHub Profile README  (github.com/emreakbs)
-  ──────────────────────────────────────────────────────────────
-  Tüm görseller bu oturumda CANLI test edilip ÇALIŞTIĞI doğrulanan
-  servislerden gelir (capsule-render, skillicons, demolab, shields,
-  activity-graph, komarev). Kullanıcı adı: emreakbs → değiştirmek için
-  tümünü değiştir.
+  Tüm görseller canlı test edilip çalıştığı doğrulanan servislerden gelir.
+  Kullanıcı adı: emreakbs
 -->
 
 <!-- ════════════════ HEADER ════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1A2980,100:26D0CE&height=200&section=header&text=Emre%20Akba%C5%9F&fontSize=52&fontColor=ffffff&fontAlignY=34&desc=Senior%20Full-Stack%20Software%20Developer&descAlignY=55&descSize=18" alt="header"/>
+<h1 align="center">Emre&nbsp;Akbaş</h1>
+<p align="center"><sub>SENIOR&nbsp;·&nbsp;FULL-STACK&nbsp;SOFTWARE&nbsp;DEVELOPER</sub></p>
 
 <p align="center">
   <a href="https://github.com/emreakbs">
@@ -32,94 +30,29 @@
 🇬🇧&nbsp; A **full-stack software developer** building scalable enterprise systems. On the backend I apply Clean Architecture, Domain-Driven Design and microservices with **.NET / ABP Framework**; on the frontend I build clean, fast and maintainable interfaces with **Vue** and **React**. Currently focused on a comprehensive **HR management platform (iq-hr)**. I put code quality, performance and maintainability above everything else.
 
 <br/>
+<br/>
 
-<!-- ════════════════ TECH STACK ════════════════ -->
-<h3 align="center">🧩 Tech Stack</h3>
-
-<table align="center">
-  <tr>
-    <td align="center"><b>Languages</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=cs,ts,js,html,css&theme=dark" alt="languages"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Backend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=dotnet&theme=dark" alt="backend"/>
-      <img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=flat-square&logo=dotnet&logoColor=white" alt="aspnet"/>
-      <img src="https://img.shields.io/badge/ABP-3EA1DB?style=flat-square" alt="abp"/>
-      <img src="https://img.shields.io/badge/EF_Core-512BD4?style=flat-square&logo=nuget&logoColor=white" alt="ef"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Frontend</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=vue,react,tailwind,bootstrap&theme=dark" alt="frontend"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>Database</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=postgres,mysql,mongodb,redis&theme=dark" alt="database"/>
-    </td>
-  </tr>
-  <tr>
-    <td align="center"><b>DevOps</b></td>
-    <td align="center">
-      <img src="https://skillicons.dev/icons?i=docker,git,azure,rabbitmq,nginx,linux&theme=dark" alt="devops"/>
-    </td>
-  </tr>
-</table>
+<!-- ════════════════ TECH STACK (geniş, ortalanmış ızgara) ════════════════ -->
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cs,dotnet,ts,js,vue,react,tailwind,bootstrap,html,css,postgres,mysql,mongodb,redis,docker,git,azure,rabbitmq,nginx,linux&theme=dark&perline=10" alt="tech stack"/>
+</p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Clean%20Architecture-134E5E?style=flat-square" alt="Clean Architecture"/>
+  <img src="https://img.shields.io/badge/ASP.NET_Core-134E5E?style=flat-square" alt="ASP.NET Core"/>
+  <img src="https://img.shields.io/badge/ABP_Framework-134E5E?style=flat-square" alt="ABP"/>
+  <img src="https://img.shields.io/badge/EF_Core-134E5E?style=flat-square" alt="EF Core"/>
+  <img src="https://img.shields.io/badge/Clean_Architecture-134E5E?style=flat-square" alt="Clean Architecture"/>
   <img src="https://img.shields.io/badge/DDD-134E5E?style=flat-square" alt="DDD"/>
   <img src="https://img.shields.io/badge/Microservices-134E5E?style=flat-square" alt="Microservices"/>
   <img src="https://img.shields.io/badge/SOLID-134E5E?style=flat-square" alt="SOLID"/>
-  <img src="https://img.shields.io/badge/REST%20API-134E5E?style=flat-square" alt="REST API"/>
+  <img src="https://img.shields.io/badge/REST_API-134E5E?style=flat-square" alt="REST API"/>
   <img src="https://img.shields.io/badge/Multi--tenancy-134E5E?style=flat-square" alt="Multi-tenancy"/>
 </p>
 
 <br/>
-
-<!-- ════════════════ FEATURED PROJECTS ════════════════ -->
-<h3 align="center">🚀 Featured Projects</h3>
-
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🎓 <a href="https://github.com/emreakbs/OnlineExamSystem-WebApi">OnlineExamSystem — API</a></h4>
-      <p>Online sınav sisteminin .NET tabanlı backend'i: kimlik doğrulama, sınav/soru yönetimi ve sonuç değerlendirme.</p>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-      <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🖥️ <a href="https://github.com/emreakbs/OnlineExamSystem-VueJs">OnlineExamSystem — Vue</a></h4>
-      <p>Aynı sistemin Vue.js tabanlı frontend'i: sınav arayüzü, gerçek zamanlı akış ve sonuç ekranları.</p>
-      <img src="https://img.shields.io/badge/Vue-35495E?style=flat-square&logo=vuedotjs&logoColor=42B883"/>
-      <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>📰 <a href="https://github.com/emreakbs/NewsApp">NewsApp</a></h4>
-      <p>C# ile geliştirilmiş haber uygulaması; kategori bazlı içerik ve servis katmanı mimarisi.</p>
-      <img src="https://img.shields.io/badge/C%23-512BD4?style=flat-square&logo=csharp&logoColor=white"/>
-    </td>
-    <td width="50%" valign="top">
-      <h4>📚 <a href="https://github.com/emreakbs/turkcekaynaklar-com">turkcekaynaklar-com</a></h4>
-      <p>Özenle seçilmiş Türkçe geliştirici kaynakları listesine katkı (fork).</p>
-      <img src="https://img.shields.io/badge/Open%20Source-134E5E?style=flat-square&logo=git&logoColor=white"/>
-    </td>
-  </tr>
-</table>
-
 <br/>
 
 <!-- ════════════════ GITHUB ANALYTICS ════════════════ -->
-<h3 align="center">📊 GitHub Analytics</h3>
-
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=emreakbs&hide_border=true&theme=tokyonight&ring=26D0CE&fire=26D0CE&currStreakLabel=26D0CE&sideLabels=8b949e" alt="streak stats"/>
 </p>
@@ -132,7 +65,5 @@
 
 <!-- ════════════════ FOOTER ════════════════ -->
 <p align="center">
-  <sub>“Simplicity is the ultimate sophistication.”</sub>
+  <sub><i>“Simplicity is the ultimate sophistication.”</i></sub>
 </p>
-
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:26D0CE,100:1A2980&height=120&section=footer" alt="footer"/>
